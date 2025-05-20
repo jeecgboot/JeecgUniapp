@@ -38,9 +38,8 @@ class socket {
         }
         console.log('启动this.socketUrl连接地址：', url)
         // update-begin-author:taoyan date:20220422 for:v2.4.6 的 websocket 服务端，存在性能和安全问题。 #3278
-
+			
         let token = userStore.userInfo.token
-		// alert(token);
         uni.connectSocket({
           url: url,
           method: 'GET',

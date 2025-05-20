@@ -156,6 +156,23 @@
       }
     },
     {
+      "path": "pages/demo01/demo01",
+      "type": "page",
+      "layout": "default",
+      "style": {
+        "navigationBarTitleText": "",
+        "navigationStyle": "custom",
+        "disableScroll": true,
+        "app-plus": {
+          "bounce": "none"
+        }
+      }
+    },
+    {
+      "path": "pages/demo01/demo02",
+      "type": "page"
+    },
+    {
       "path": "pages/login/login",
       "type": "page",
       "style": {

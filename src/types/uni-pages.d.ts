@@ -13,6 +13,8 @@ interface NavigateToOptions {
        "/pages/demo/indexBar" |
        "/pages/demo/selectPicker" |
        "/pages/demo/tree" |
+       "/pages/demo01/demo01" |
+       "/pages/demo01/demo02" |
        "/pages/login/login" |
        "/pages/login/loginOauth2" |
        "/pages/message/message" |
